@@ -1,0 +1,25 @@
+_repo: '-----_25323'
+_version: 0.1.0
+alternative_title: Hu Li Yuan Quan Zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zuiyueshanren, active 1804-1876
+    alias: 醉月山人
+    gutenberg_agent_id: '31245'
+    url: http://www.gutenberg.org/2009/agents/31245
+description: ''
+gutenberg_issued: '2008-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25323'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+title: 狐狸緣全傳
+url: http://www.gutenberg.org/ebooks/25323
